@@ -1,0 +1,250 @@
+1. Good morning! Did you sleep well?
+2. How are you feeling today?
+3. What did you do over the weekend?
+4. Is it supposed to rain later?
+5. Did you catch last night's game?
+6. Can you help me with this problem?
+7. What time is it?
+8. Are you coming to the party tonight?
+9. Would you like some coffee?
+10. Did you see the news this morning?
+11. Do you have any plans for tonight?
+12. How's your day been so far?
+13. What's for dinner tonight?
+14. Can I borrow a pen, please?
+15. Did you get my email?
+16. Can you recommend a good book?
+17. Have you been working out lately?
+18. Can you give me a ride to work?
+19. Do you have any weekend plans?
+20. What movie do you want to watch tonight?
+21. What are your thoughts on the new policy?
+22. Are you free for lunch?
+23. How's your family doing?
+24. Can you help me with my resume?
+25. Did you hear about the traffic accident?
+26. When's your birthday?
+27. How do you like your new job?
+28. Where do you want to go on vacation?
+29. Are you taking any classes this semester?
+30. Did you see the new exhibit at the museum?
+31. Can I have the recipe for that dish?
+32. Did you get the package I sent you?
+33. Where's the nearest grocery store?
+34. How long does it take to get to the mall from here?
+35. How's your new workout routine going?
+36. What's your favorite thing to do in the summer?
+37. Who's your favorite music artist?
+38. Do you like to cook or eat out more?
+39. What's your favorite social media platform?
+40. Is there anything I can help you with?
+41. How do I get to the post office from here?
+42. Can you save me a seat at the meeting?
+43. What's your favorite kind of food?
+44. Did you get tickets to the concert?
+45. How long have you been living in this city?
+46. Do you need help cleaning up?
+47. How was the drive here?
+48. Can I pet your dog?
+49. Did you have a good workout?
+50. Have you seen any good movies lately?
+51. Do you prefer tea or coffee?
+52. How do you stay organized?
+53. What did you think of the movie?
+54. Did you finish that book you were reading?
+55. Are you almost ready to leave?
+56. When does your flight leave?
+57. Can I have the Wi-Fi password?
+58. What's the weather supposed to be like tomorrow?
+59. Do you need help with that?
+60. How's your garden coming along?
+61. Have you been to that new restaurant downtown?
+62. What's the best way to get to the train station?
+63. Did you find a good parking spot?
+64. Can you believe how fast this year has gone by?
+65. What's your favorite part about living in this city?
+66. Are you enjoying your new apartment?
+67. What time does the store close?
+68. What's your favorite podcast?
+69. How did your job interview go?
+70. Do you have any fun plans for the weekend?
+71. Can I call you back in a few minutes?
+72. How long have you been working here?
+73. Would you like a glass of water?
+74. What was the name of that restaurant we went to last time?
+75. Are you going to the gym after work?
+76. Can I borrow your charger?
+77. What's your favorite TV show these days?
+78. Do you prefer working from home or at the office?
+79. How was your trip?
+80. Are you planning any trips this year?
+81. How's your new boss?
+82. Can you pass the salt, please?
+83. Do you have any siblings?
+84. How do you like the neighborhood?
+85. Did you file your taxes yet?
+86. How was your day at work?
+87. Can I have your phone number?
+88. Did you get a chance to exercise today?
+89. Is this seat taken?
+90. Where can I find a good coffee shop around here?
+91. What kind of music do you like?
+92. How's your online course going?
+93. Do you have a favorite YouTube channel?
+94. Can I have an extra napkin, please?
+95. How's your project coming along?
+96. How was your weekend getaway?
+97. When does the next bus arrive?
+98. Do you like your new car?
+99. Can I bring a friend to the event?
+100. Have you met the new neighbors yet?
+101. What time does the movie start?
+102. Did you do anything exciting last night?
+103. Do you have a favorite workout routine?
+104. How did your exam go?
+105. I've been feeling a bit under the weather lately. How about you?
+106. Are you planning to continue your education?
+107. Can I pay with a credit card?
+108. Do you prefer cats or dogs?
+109. Are you trying any new hobbies this year?
+110. Can you help me with this crossword puzzle?
+111. Are your parents coming to visit soon?
+112. What's something interesting you learned today?
+113. How's your diet going?
+114. What's the best way to reach you?
+115. Where did you get that jacket?
+116. Do you prefer city life or country living?
+117. Did you find everything you were looking for at the store?
+118. What are you doing to stay healthy?
+119. Have you talked to your friend lately?
+120. How was your date last night?
+121. What's your favorite way to relax after a long day?
+122. How do I reset the Wi-Fi router?
+123. Is there a good place nearby to grab lunch?
+124. Have you tried meditation?
+125. What's your favorite type of exercise?
+126. Would you like a ride home?
+127. Did you have any trouble finding the place?
+128. Are you feeling better now?
+129. What's the last book you read?
+130. Can you send me the presentation slides?
+131. Did you finish your work on time?
+132. How's your new roommate?
+133. Can you help me move this weekend?
+134. What's your favorite dessert?
+135. Are you watching any good TV shows lately?
+136. Do you have any allergies?
+137. How's the renovation going?
+138. When's the best time to call you?
+139. Did you update the software on your computer?
+140. Can I take a message for you?
+141. How often do you go grocery shopping?
+142. What's your favorite childhood memory?
+143. How do you manage stress at work?
+144. Do you need help carrying that?
+145. How did your presentation go?
+146. Can I use your computer for a moment?
+147. Have you been to that new park?
+148. What do you think about the latest fashion trends?
+149. Are you reading any interesting books right now?
+150. Do you watch any sports?
+151. What do youusually do on Sundays?
+152. Did you find a babysitter for tonight?
+153. Can you recommend a good movie to watch?
+154. How was your friend's wedding?
+155. Do you prefer sunrise or sunset?
+156. Did you pick up the dry cleaning?
+157. Have you been to the new gym in the neighborhood?
+158. Can you fix my computer?
+159. How's the weather looking for this weekend?
+160. Have you started your holiday shopping yet?
+161. What's your favorite way to spend an evening?
+162. How's your mother doing?
+163. When's the next appointment available?
+164. Did you watch the new episode last night?
+165. How do you like your eggs cooked?
+166. Can you give me some advice?
+167. Do you have any food preferences?
+168. How was the conference?
+169. Do you have any plans for the upcoming holidays?
+170. Are you a morning or night person?
+171. What's the best restaurant in town?
+172. How do you like your new phone?
+173. Can you take care of my plants while I'm gone?
+174. How's your job search going?
+175. When do you want to meet up?
+176. How early do you wake up on weekdays?
+177. Can I get your opinion on this?
+178. What's your favorite type of restaurant?
+179. Have you been staying hydrated?
+180. What's your favorite childhood book?
+181. How's your meditation practice going?
+182. Do you need help setting up the event?
+183. Are you free this Saturday?
+184. Can you drop me off at the airport?
+185. Do you need any help with your work?
+186. How often do you get a haircut?
+187. Do you prefer online shopping or going to the store?
+188. Did you receive the invitation I sent you?
+189. How do you stay motivated?
+190. Have you ever tried yoga?
+191. What's your favorite thing about your job?
+192. How's the traffic this morning?
+193. Can I get your input on this project?
+194. Have you ever thought about working for yourself?
+195. Can you drive me to the dentist?
+196. How was your meeting with the client?
+197. Are you a coffee or tea person?
+198. Do you take public transportation to work?
+199. When's the last time you went on a vacation?
+200. How's your sister's new job?
+201. What's the story behind that scar?
+202. Do you meal prep for the week?
+203. Can I tag along to the farmer's market?
+204. Did you find a new nanny yet?
+205. What's your favorite type of workout class?
+206. Can you make it to the baby shower this weekend?
+207. Have you ever thought about starting a business?
+208. How's your study group going?
+209. Can I have your recipe for that delicious cake?
+210. Where do you like to go for a weekend getaway?
+211. How do you manage your time effectively?
+212. Do you have any favorite local events?
+213. How was your night out with friends?
+214. Can you help me find my keys?
+215. What are you binge-watching lately?
+216. Are you taking any vitamins or supplements?
+217. How was your experience with the new doctor?
+218. Do you enjoy outdoor activities?
+219. What's your secret to staying fit?
+220. Can you walk me through the process?
+221. How do you keep your house so clean?
+222. When's your next day off work?
+223. What are some of your favorite travel destinations?
+224. Have you thought about going back to school?
+225. How much does the metro cost these days?
+226. Do you compost or recycle?
+227. How long does it usually take you to get ready in the morning?
+228. Can I run this idea by you?
+229. What's a good show to watch with kids?
+230. Did you buy any new clothes lately?
+231. How's your relationship with your roommate?
+232. When's the last time you spoke to your parents?
+233. How do you handle negative thoughts?
+234. Would you like to go for a walk after dinner?
+235. Can I use your bathroom?
+236. How long have you been practicing yoga?
+237. Can you help me choose a paint color?
+238. What's your favorite outdoor activity?
+239. Have you had any luck with online dating?
+240. How do you store your fresh produce?
+241. Do you have any tips for saving money?
+242. How was the holiday party?
+243. Have you ever tried a plant-based diet?
+244. Did you check the mail today?
+245. Can you give me some tips for job interviews?
+246. Where did you learn to speak another language?
+247. Do you usually make New Year's resolutions?
+248. How's your dating life going?
+249. Can I borrow your umbrella?
+250. What's your favorite type of weather?
